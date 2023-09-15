@@ -1,3 +1,4 @@
-from funcs import plus
+from funcs import plus, minus
 
-print(plus())
+
+print(plus(), minus())
