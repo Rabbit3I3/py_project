@@ -1,6 +1,10 @@
-x = 2 + 2
-print(x)
+def plus():
+    x = 2 + 2
+    return x
 
 
-a = 4 - 2
-print(a)
+
+def minus():
+    a = 4 - 2
+    return a
+
